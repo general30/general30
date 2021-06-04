@@ -4,7 +4,7 @@
 
 .wrap {
   background: rgb(180, 179, 179);
-  width: auto;
+  width: ;
   padding: 100px;
   height: auto;
 
@@ -15,8 +15,8 @@
   background: rgb(236, 234, 234);
   border: 1px solid #ccc;
   border-radius: 8px;
-  width: 80%;
-  margin-left: 10px;
+  width: 100%;
+  margin-left: -30px;
   outline: none;
   box-sizing: border-box;
 }
