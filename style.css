@@ -1,0 +1,36 @@
+.hide {
+  display: none;
+}
+
+.wrap {
+  background: rgb(180, 179, 179);
+  width: 700px;
+  padding: 100px;
+  height: auto;
+
+}
+
+.input {
+  padding: 10px;
+  background: rgb(236, 234, 234);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 50%;
+  margin-left: -50px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.ul {
+  padding-bottom: 50px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  margin-left: -70px;
+  
+}
+
+.ul li {
+  font-size: 20px;
+  line-height: 1.4;
+  font-weight: bold;
+}
